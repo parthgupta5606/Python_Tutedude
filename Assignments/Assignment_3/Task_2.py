@@ -1,3 +1,4 @@
+#This program performs basic mathematical operations on a number using math module
 import math
 
 num=float(input("Enter a number: "))

@@ -1,3 +1,4 @@
+#This program gives the factorial of any given number entered by user
 def factorial(num):
     if num ==1:
         return 1
